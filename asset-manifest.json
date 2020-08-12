@@ -1,25 +1,22 @@
 {
   "files": {
-    "main.css": "/deployleaf/static/css/main.f0d7b0e0.chunk.css",
-    "main.js": "/deployleaf/static/js/main.8c29bb97.chunk.js",
-    "main.js.map": "/deployleaf/static/js/main.8c29bb97.chunk.js.map",
-    "runtime-main.js": "/deployleaf/static/js/runtime-main.883efb65.js",
-    "runtime-main.js.map": "/deployleaf/static/js/runtime-main.883efb65.js.map",
-    "static/css/2.7c35e809.chunk.css": "/deployleaf/static/css/2.7c35e809.chunk.css",
-    "static/js/2.5e5b58a6.chunk.js": "/deployleaf/static/js/2.5e5b58a6.chunk.js",
-    "static/js/2.5e5b58a6.chunk.js.map": "/deployleaf/static/js/2.5e5b58a6.chunk.js.map",
-    "index.html": "/deployleaf/index.html",
-    "precache-manifest.77e0fee2222733788f42a5912dca1c74.js": "/deployleaf/precache-manifest.77e0fee2222733788f42a5912dca1c74.js",
-    "service-worker.js": "/deployleaf/service-worker.js",
-    "static/css/2.7c35e809.chunk.css.map": "/deployleaf/static/css/2.7c35e809.chunk.css.map",
-    "static/css/main.f0d7b0e0.chunk.css.map": "/deployleaf/static/css/main.f0d7b0e0.chunk.css.map",
-    "static/js/2.5e5b58a6.chunk.js.LICENSE.txt": "/deployleaf/static/js/2.5e5b58a6.chunk.js.LICENSE.txt"
+    "main.css": "/deployshoppingcart/static/css/main.b669ad73.chunk.css",
+    "main.js": "/deployshoppingcart/static/js/main.b7872476.chunk.js",
+    "main.js.map": "/deployshoppingcart/static/js/main.b7872476.chunk.js.map",
+    "runtime-main.js": "/deployshoppingcart/static/js/runtime-main.0f8e983c.js",
+    "runtime-main.js.map": "/deployshoppingcart/static/js/runtime-main.0f8e983c.js.map",
+    "static/js/2.4d6709b4.chunk.js": "/deployshoppingcart/static/js/2.4d6709b4.chunk.js",
+    "static/js/2.4d6709b4.chunk.js.map": "/deployshoppingcart/static/js/2.4d6709b4.chunk.js.map",
+    "index.html": "/deployshoppingcart/index.html",
+    "precache-manifest.a36df5cf6a23c4df7f01a1f39dd8cc11.js": "/deployshoppingcart/precache-manifest.a36df5cf6a23c4df7f01a1f39dd8cc11.js",
+    "service-worker.js": "/deployshoppingcart/service-worker.js",
+    "static/css/main.b669ad73.chunk.css.map": "/deployshoppingcart/static/css/main.b669ad73.chunk.css.map",
+    "static/js/2.4d6709b4.chunk.js.LICENSE.txt": "/deployshoppingcart/static/js/2.4d6709b4.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.883efb65.js",
-    "static/css/2.7c35e809.chunk.css",
-    "static/js/2.5e5b58a6.chunk.js",
-    "static/css/main.f0d7b0e0.chunk.css",
-    "static/js/main.8c29bb97.chunk.js"
+    "static/js/runtime-main.0f8e983c.js",
+    "static/js/2.4d6709b4.chunk.js",
+    "static/css/main.b669ad73.chunk.css",
+    "static/js/main.b7872476.chunk.js"
   ]
 }
